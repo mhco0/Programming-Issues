@@ -71,10 +71,10 @@ void back(char &kind,int pos){
 	}
 }
 
+
 int main(void){
 	cin.tie(0);
 	ios::sync_with_stdio(0);
-
 	int t;
 
 	cin >> t;
